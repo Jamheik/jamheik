@@ -4,13 +4,6 @@
   <a href="https://github.com/Jamheik">
     <img src="https://img.shields.io/github/followers/Jamheik?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/Jamheik?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=F79D00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Software+Enthusiast;Passionate+About+Coding+%7C+Cloud+%7C+Automation;Building+Innovative+Projects+With+Modern+Tech" />
 </p>
 
 ---
