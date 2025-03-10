@@ -24,8 +24,6 @@
 ---
 
 ### 📫 **Connect with Me**
-- 🔗 **LinkedIn:** [www.linkedin.com/in/jamheik](www.linkedin.com/in/jamheik)
+- 🔗 **LinkedIn:** [linkedin.com/in/jamheik](https://www.linkedin.com/in/jamheik)
 
 ---
-
-⭐ **Thanks for visiting! If you like my projects, consider leaving a star 🌟!**
