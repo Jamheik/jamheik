@@ -23,7 +23,8 @@
 
 ---
 
-### 📫 **Connect with Me**
-- 🔗 **LinkedIn:** [linkedin.com/in/jamheik](https://www.linkedin.com/in/jamheik)
+## 📌 Featured Projects  
 
----
+- [Bank automat](https://github.com/Jamheik/bankautomat)
+- [SpedenSpelit](https://github.com/Jamheik/spedenSpelit)
+- [MoviePage](https://github.com/webProjectR10/MoviePage)
