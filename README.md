@@ -1,9 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Jamheik">
-    <img src="https://img.shields.io/github/followers/Jamheik?label=Follow&style=social" alt="GitHub Followers">
-  </a>
+  <a href="https://github.com/Jamheik"/>
 </p>
 
 ---
