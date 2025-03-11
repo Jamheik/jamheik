@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jamheik&show_icons=true&theme=merko" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamheik&layout=compact&theme=merkot" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamheik&layout=compact&theme=merko" height="165">
 </p>
 
 ---
