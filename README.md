@@ -28,10 +28,13 @@
     <img src="https://img.shields.io/badge/-Bank Automat-222?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/Jamheik/spedenSpelit">
-    <img src="https://img.shields.io/badge/-SpedenSpelit-222?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-SpedenSpelit-222?style=for-the-badge&logo=github&logoColor=blue">
   </a>
   <a href="https://github.com/webProjectR10/MoviePage">
-    <img src="https://img.shields.io/badge/-Movie Page-222?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-Movie Page-222?style=for-the-badge&logo=github&logoColor=green">
+  </a>
+  <a href="https://github.com/Jamheik/newsApp">
+    <img src="https://img.shields.io/badge/-News App-222?style=for-the-badge&logo=github&logoColor=red">
   </a>
 </p>
 
